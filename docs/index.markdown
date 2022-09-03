@@ -4,4 +4,4 @@
 
 layout: home
 ---
-This is the home page.
+This is the home page. Updating the home page.
