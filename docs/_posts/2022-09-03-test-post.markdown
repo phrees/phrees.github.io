@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Test Post"
-date:   2022-09-03 13:03:00 -0700
-categories: jekyll update
----
-This is a test post. Just want to see whether my configuration is working. The test post is not appearing on the site right now so I'm making this change to see what is stalled.
