@@ -22,7 +22,7 @@ title: Phil Rees Personal Blog
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog for Phil Rees - writer of prose, poetry and code.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://phrees.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://phrees.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: phrees
 github_username:  phrees
 
