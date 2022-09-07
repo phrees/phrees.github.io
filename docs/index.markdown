@@ -4,3 +4,4 @@
 
 layout: home
 ---
+I'm going to be spend the next little while learning GDScript with a view to developing educational games and apps using Godot.
