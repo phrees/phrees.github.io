@@ -5,8 +5,6 @@ date:   2022-11-15 18:40:23 -0700
 categories: Lua Minetest
 ---
 
-# My First MineTest Crafting Recipe
-
 Successfully put together my first Minetest crafting recipe. Very simple but deeply satisfying.
 
 > Top Secret Document + Thought -> Declassified Document
